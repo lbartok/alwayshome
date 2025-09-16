@@ -29,7 +29,7 @@ This guide provides step-by-step instructions for setting up a complete "always 
 
 ### Software Requirements
 - Raspberry Pi OS (latest version)
-- ZeroTier account (free tier available)
+- ZeroTier account (free tier available) (https://my.zerotier.com/)
 - SSH client for remote configuration
 
 ### Network Requirements
